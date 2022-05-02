@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisna Saputra</h1>
-<h3 align="center">Halo, My name is Krisna Saputra. I study at Institute Technology Sumatera. My interest is Back-End Developer.</h3>
+<h3 align="center">Halo, My name is Krisna Saputra. I study at Institute Technology Sumatera. My interest is Full Stack Developer.</h3>
 
 - 🌱 I’m currently learning **Front End (React JS,Tailwind CSS,SASS),Back End (Golang,Laravel)**
 
