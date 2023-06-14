@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Krisna Saputra</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Krisna Saputra</h1>
 <h3 align="center">Halo, My name is Krisna Saputra. I study at Institute Technology Sumatera. My interest is Full Stack Developer.</h3>
 
 ## 🙋‍♂️ About Me
@@ -29,11 +29,6 @@
   <a href="https://github.com/krisnasaputtra/github-readme-stats"><img alt="Krisna Saputra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnasaputtra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/krisnasaputtra/github-readme-activity-graph"><img alt="Krisna Saputra Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krisnasaputtra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
