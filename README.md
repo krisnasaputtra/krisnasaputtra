@@ -36,7 +36,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/krisna saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisna saputra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krisna-saputra-198930222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisna saputra" height="30" width="40" /></a>
 <a href="https://instagram.com/krisnasaput.ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krisnasaput.ra" height="30" width="40" /></a>
 <a href="https://discord.gg/Rule.s#8370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rule.s#8370" height="30" width="40" /></a>
 </p>
