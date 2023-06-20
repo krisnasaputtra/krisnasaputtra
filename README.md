@@ -34,12 +34,12 @@
 
 ## 🤝🏻 Connect with me
 
-[![Email: krisnas053@gmail.com](https://img.shields.io/badge/-fachridantm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krisnas053@gmail.com)
-[![LinkedIn:  Krisna Saputra](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fachridantm/)](https://www.linkedin.com/in/krisna-saputra-198930222)&nbsp;
+[![Email: krisnas053@gmail.com](https://img.shields.io/badge/-krisnas053@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krisnas053@gmail.com)
+[![LinkedIn:  Krisna Saputra](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krisna-saputra-198930222)](https://www.linkedin.com/in/krisna-saputra-198930222)&nbsp;
 [![Instagram: Follow krisnasaputra](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/krisnasaput.ra)&nbsp;
 [![Telegram: krisnasaputra](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white)&nbsp;
 [![Linktree: krisnasaputra](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white)&nbsp;
-[![Twitter: Follow @krisnasaputra](https://img.shields.io/twitter/follow/fachridantm?style=social)]
+[![Twitter: Follow @krisnasaputra](https://img.shields.io/twitter/follow/krisnasaputra?style=social)]
 
 ---
 
