@@ -39,7 +39,7 @@
 [![Instagram: Follow krisnasaputra](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/krisnasaput.ra)&nbsp;
 [![Telegram: krisnasaputra](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white)&nbsp;
 [![Linktree: krisnasaputra](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white)&nbsp;
-[![Twitter: Follow @krisnasaputra](https://img.shields.io/twitter/follow/krisnasaputra?style=social)]
+[![Twitter: Follow @krisnasaputra](https://img.shields.io/twitter/follow/krisnasaputra?style=social)
 
 ---
 
