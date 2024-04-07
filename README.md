@@ -2,8 +2,16 @@
 
 A final semester student pursuing a degree in Computer Engineering at the Sumatera Institute of Technology, I discovered my passion for Web Development during my second semester. Since then, I've amassed considerable experience in both Front End and Back End Development, drawn to the logical challenges inherent in programming. My expertise lies in utilizing PHP with the Laravel framework and JavaScript with the Express JS framework, while also exploring Golang. Notably, I've applied my skills in Back End Development by creating a registration website for the International Conference on Science, Infrastructure Technology, and Regional Development (ICoSITeR), employing PHP and Laravel to build a Rest API and MySQL for database management. My fervent dedication to Web Development, particularly Back End Development, propels me towards the goal of becoming an expert in this domain, eager to continually expand my knowledge within the broader spectrum of web development.
 
+### My Github Statistic
+<p align="left">
+<a href="https://github.com/krisnasaputtra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krisnasaputtra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisnasaputtra&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### My Skills
-<p style="display: inline-block;" align="center">
+<p style="display: inline-block;" align="start">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -29,16 +37,7 @@ A final semester student pursuing a degree in Computer Engineering at the Sumate
   </kbd>
 </p>
 
-### My Github Statistic
-<p align="left">
-<a href="https://github.com/krisnasaputtra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krisnasaputtra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisnasaputtra&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### Reach Me On
-
 [![Email: krisnas053@gmail.com](https://img.shields.io/badge/-krisnas053@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krisnas053@gmail.com)
 [![LinkedIn:  Krisna Saputra](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krisna-saputra-198930222)](https://www.linkedin.com/in/krisna-saputra-198930222)&nbsp;
 [![Instagram: Follow krisnasaputra](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/krisnasaput.ra)&nbsp;
