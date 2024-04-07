@@ -1,6 +1,6 @@
 ### Hi guys, I'm krisna..👋
 
-Lorem
+A final semester student pursuing a degree in Computer Engineering at the Sumatera Institute of Technology, I discovered my passion for Web Development during my second semester. Since then, I've amassed considerable experience in both Front End and Back End Development, drawn to the logical challenges inherent in programming. My expertise lies in utilizing PHP with the Laravel framework and JavaScript with the Express JS framework, while also exploring Golang. Notably, I've applied my skills in Back End Development by creating a registration website for the International Conference on Science, Infrastructure Technology, and Regional Development (ICoSITeR), employing PHP and Laravel to build a Rest API and MySQL for database management. My fervent dedication to Web Development, particularly Back End Development, propels me towards the goal of becoming an expert in this domain, eager to continually expand my knowledge within the broader spectrum of web development.
 
 ### Github Statistic
 <p align="left">
