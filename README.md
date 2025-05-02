@@ -1,6 +1,6 @@
 ### Hi guys, I'm Krisna..👋
 
-I am Krisna Saputra, a final semester student majoring in Computer Engineering at the Sumatera Institute of Technology. I have a strong interest in software development, which I have been pursuing since my second semester. Notably, I contributed as a Back-End Developer in a group project focusing on an AI-driven food and beverage recommendation application. My responsibilities included database design, API creation, and integration with AI models using Node.js and Express.js. Additionally, I served as a Front-End Developer in another project, where I transformed designs into a functional e-commerce website using React.js and Next.js, integrating them with Back-End APIs and enhancing the client-side experience. My enthusiasm for software development drives me to seek opportunities for further learning and professional growth in both Front-End and Back-End roles through projects, internships, or full-time positions
+Passionate Web Developer with 2+ years of experience specializing in Frontend Development, with occasional contributions to Backend tasks. Skilled in building fast, lightweight, scalable, and user-centric web applications using modern technologies and an agile development approach. Seeking a Web Developer role to contribute to innovative projects while continuously growing toward expertise in web development.
 
 ### My Github Statistic
 <p align="left">
